@@ -16,4 +16,5 @@ ZCZC W01 30 L05 GSGS related
 ZCZC W01 90 L09 AsDos: asking, debugging.
 ZCZC W01 5 L14 Assignment #4
 ZCZC W01 5 L15 Assignment #5
-
+ZCZC W01 90 L18 Assignment #8
+ZCZC W01 40 L19 Assignment #9
