@@ -16,7 +16,7 @@
 * [Week 04](w04.md)
 * [Week 05](w05.md)
 * [Week 06](w06.md)
-* [Week 07](w07/)
+* [Week 07](w07.md)
 * [Week 08](w08/)
 * [Week 09](w09/)
 * [Week 10](w10/)
